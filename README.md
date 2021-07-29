@@ -7,6 +7,8 @@
 - 📫 How to reach me: deyby57@gmail.com
 - ⚡ Fun fact: [Fun video](https://www.youtube.com/watch?v=kJrnWvf494w)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandeyby&theme=highcontrast" alt="lmachens" /></p>
+
 <!--
 **Juandeyby/Juandeyby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
