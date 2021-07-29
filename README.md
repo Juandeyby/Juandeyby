@@ -1,4 +1,5 @@
-### Hi, 👋 I'm Juan Deyby
+<h1 align="center">Hi, 👋 I'm Juan Deyby</h1>
+<h3 align="center">Computer and Games enthusiast with a strong will to try out new things. My passion is to share my knowledge with like-minded spirits.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandeyby&label=Profile%20views&color=0e75b6&style=flat" alt="lmachens" /> </p>
 
