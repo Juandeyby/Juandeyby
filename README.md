@@ -12,6 +12,10 @@
 ![](https://img.shields.io/badge/Graphics-Inkscape-informational?style=flat&logo=Inkscape&color=336791)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.kevinpqh.vercel.app/api/spotify)](https://open.spotify.com/user/313p3adxlwxf75reb34p3x7h5x5q)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandeyby&label=Profile%20views&color=0e75b6&style=flat" alt="lmachens" /> </p>
 
 - 🔭 I’m currently working on GeoInnovacion
