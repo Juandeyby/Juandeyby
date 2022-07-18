@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juandeyby&cover_image=true&theme=default)](https://open.spotify.com/user/juandeyby)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juandeyby&cover_image=true&theme=default&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=juandeyby&redirect=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandeyby&label=Profile%20views&color=0e75b6&style=flat" alt="lmachens" /> </p>
 
