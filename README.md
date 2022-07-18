@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandeyby&label=Profile%20views&color=0e75b6&style=flat" alt="lmachens" /> </p>
 
-- 🔭 I’m currently working on GeoInnovacion
+- 🔭 I’m currently working at GeoInnovacion
 - 🌱 I’m currently learning how to build complete game 2.5D
 - 🤔 I’m looking for help with my fluent English
 - 💬 Ask me about games marketing.
