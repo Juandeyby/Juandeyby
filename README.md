@@ -25,14 +25,16 @@
 ## 📈 GitHub Stats 
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juandeyby&theme=radical" alt="Juan Deyby's GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=juandeyby&show_icons=true&theme=radical" alt="Juan Deyby's GitHub Stats" />
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Juandeyby)](https://github.com/Juandeyby)
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/juandeyby?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juandeyby&layout=compact)](https://github.com/Juandeyby)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Juandeyby)](https://lidyi.com/)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandeyby&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
+</div>
 
 <!--
 **Juandeyby/Juandeyby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
