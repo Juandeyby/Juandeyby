@@ -24,16 +24,36 @@
 
 ## 📈 GitHub Stats 
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=juandeyby&show_icons=true&theme=radical" alt="Juan Deyby's GitHub Stats" />
 </div>
 
-<div align="center">
+<div align="left">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/juandeyby?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
 </div>
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandeyby&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
+</div>
+
+### Detailed Languages
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandeyby&langs_count=20&theme=radical" alt="Hoang Son's Languages" />
+</div>
+
+### GitHub Trophies
+<div align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=juandeyby&theme=radical&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
+</div>
+
+### Repositories Contribution Graph
+<div align="left">
+    <img src="https://ghchart.rshah.org/juandeyby" alt="Juan Deyby's Repos Contributions" />
+</div>
+
+### GitHub Contributions Graph
+<div align="left">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juandeyby&theme=radical" alt="Hoang Son's GitHub Achievements" />
 </div>
 
 <!--
