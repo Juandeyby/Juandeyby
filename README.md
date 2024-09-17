@@ -13,12 +13,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ### Spotify Playing 🎧
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juandeyby&cover_image=true&theme=default&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=juandeyby&redirect=true)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandeyby&label=Profile%20views&color=0e75b6&style=flat" alt="lmachens" /> </p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juandeyby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 - 🔭 I’m currently working at GeoInnovacion
 - 🌱 I’m currently learning how to build complete game 2.5D
