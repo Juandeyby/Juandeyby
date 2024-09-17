@@ -22,10 +22,11 @@
 - 📫 How to reach me: deyby57@gmail.com
 - ⚡ Fun fact: [Fun video](https://www.youtube.com/watch?v=kJrnWvf494w)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandeyby&theme=highcontrast" alt="lmachens" /></p>
-
-
 ## 📈 GitHub Stats 
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juandeyby&theme=radical" alt="Juan Deyby's GitHub Streak" />
+</div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Juandeyby)](https://github.com/Juandeyby)
 
