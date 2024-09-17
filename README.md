@@ -55,9 +55,7 @@
 </div>
 
 ### Repositories Contribution Graph
-<div align="left">
-    <img src="https://ghchart.rshah.org/juandeyby" alt="Juan Deyby's Repos Contributions" />
-</div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### GitHub Contributions Graph
 <div align="left">
