@@ -24,7 +24,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juandeyby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 - 🔭 I’m currently working at GeoInnovacion
-- 🌱 I’m currently learning how to build complete game 2.5D
+- 🌱 I’m currently learning IA in games and game engines.
 - 🤔 I’m looking for help with my fluent English
 - 💬 Ask me about games marketing.
 - 📫 How to reach me: deyby57@gmail.com
